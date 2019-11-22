@@ -1,10 +1,10 @@
-def my_hash(hash)
-  hash = {
+def my_hash
+  my_hash = {
     "Manaan" => "A water planet",
     "Tatooine" => "A desert planet",
     "Kashyyk" => "A forest planet"
   }
-  hash[1]
+  my_hash[1]
 end
 
 
