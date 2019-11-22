@@ -4,7 +4,7 @@ def my_hash(hash)
     "Tatooine" => "A desert planet",
     "Kashyyk" => "A forest planet"
   }
-  hash(1)
+  hash[1]
 end
 
 
