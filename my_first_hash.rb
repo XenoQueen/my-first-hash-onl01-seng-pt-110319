@@ -1,6 +1,6 @@
 def my_hash
   hash = {
-    
+    "Manaan" = 
   }
 end
 
