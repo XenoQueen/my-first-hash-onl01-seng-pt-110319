@@ -1,4 +1,4 @@
-def my_hash
+def my_hash(hash)
   hash = {
     "Manaan" => "A water planet"
     "Tatooine" => "A desert planet"
