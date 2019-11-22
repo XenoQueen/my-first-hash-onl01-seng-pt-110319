@@ -4,7 +4,6 @@ def my_hash
     "Tatooine" => "A desert planet",
     "Kashyyk" => "A forest planet"
   }
-  my_hash[1]
 end
 
 
