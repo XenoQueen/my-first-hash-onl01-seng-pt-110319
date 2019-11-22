@@ -1,6 +1,8 @@
 def my_hash
   hash = {
-    "Manaan" = 
+    "Manaan" => "A water planet"
+    "Tatooine" => "A desert planet"
+    "Kashyyk" => "A forest planet"
   }
 end
 
